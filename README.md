@@ -10,3 +10,4 @@
 изменение 1 для remote-branch3
 изменение 2 для remote-branch3
 изменение 3 для remote-branch3
+повторение работы с Git
